@@ -109,50 +109,50 @@ achievement.slimeball=Toplarımı sülfürik aside batırmalıyım.
 achievement.stratum.desc=Frene bas, Mitts.
 achievement.stratum=Stratum
 achievement.someWounds.desc=Hazır ol
-achievement.someWounds=Some Wounds Never Heal
-achievement.soyuz.desc=Become crunchy.
-achievement.soyuz=Baked Potato
-achievement.space.desc=Fail in every way possible and waste funds worth 90 million dollars.
-achievement.space=The Final Front-ah forget it
+achievement.someWounds=Bazı Yaralar Asla İyileşmez
+achievement.soyuz.desc=Çıtır ol.
+achievement.soyuz=Fırınlanmış Patates
+achievement.space.desc=Her şekilde başarısız olun ve 90 milyon dolar değerinde fonları boşa harcayın.
+achievement.space=Son Cephe - unut gitsin
 achievement.sulfuric.desc=
-achievement.sulfuric=I should not have dipped my balls in sulfuric acid.
-achievement.tantalum.desc=An elusive, yet ever-needed element.
+achievement.sulfuric=Toplarımı sülfürik aside batırmamalıydım.
+achievement.tantalum.desc=Yakalanması zor, ancak her zaman ihtiyaç duyulan bir element.
 achievement.tantalum="Tantalium"
-achievement.tasteofblood.desc=is not part of any testing protocol.
-achievement.tasteofblood=The Taste of Blood
-achievement.technetium.desc=It's medicinal, it's medicinal!
+achievement.tasteofblood.desc=bu herhangi bir test protokolünün parçası değildir.
+achievement.tasteofblood=Kanın Tadı
+achievement.technetium.desc=Bu ilaç, bu ilaç!
 achievement.technetium=Big Man, Pig Man
-achievement.watzBoom.desc=Drain your septic tank next time.
-achievement.watzBoom=Disgusting
-achievement.watz.desc=Fólkvangr fields possibly included.
-achievement.watz=The Power of Element-126
-achievement.witchtaunter.desc=Those wacky creatures got nothing on you!
-achievement.witchtaunter=Witch Taunter
-achievement.ZIRNOXBoom.desc=cope, seethe, mald
+achievement.watzBoom.desc=Bir dahaki sefere septik tankınızı boşaltın.
+achievement.watzBoom=İğrenç
+achievement.watz.desc=Fólkvangr alanları da dahil olabilir.
+achievement.watz=Element-126'in gücü
+achievement.witchtaunter.desc=O tuhaf yaratıklar sana karşı hiçbir şey yapamazlar!
+achievement.witchtaunter=Cadı Alaycısı
+achievement.ZIRNOXBoom.desc=başa çıkmak, kaynamak, lanetlemek
 achievement.ZIRNOXBoom=CIRNOX
 
-analyze.basic1======NTM Component=====
-analyze.basic2=More documentation can be found on the wiki.
-analyze.basic3====Extra Information===
-analyze.dummy=Type: Dummy Block
-analyze.error=This block's compatibility has not been set properly, this should be reported as a bug!
+analyze.basic1======NTM Bileşeni=====
+analyze.basic2Daha fazla belge wiki'de bulunabilir.
+analyze.basic3====Ekstra Bilgi===
+analyze.dummy=Type: Manken Bloğu
+analyze.error=Bu bloğun uyumluluğu doğru şekilde ayarlanmamış, bu bir hata olarak bildirilmemelidir!
 analyze.name=Name: %s
-analyze.noInfo=No additional information.
+analyze.noInfo=Ek bilgi yok.
 
-armor.blastProtection=Damage modifier of %s against explosions
-armor.cap=Hard damage cap of %s
-armor.damageModifier=Damage modifier of %s against %s
+armor.blastProtection=Patlamalara karşı %s hasar değiştiricidir
+armor.cap=%s sert hasar sınırı
+armor.damageModifier=%s'ye karşı %s'nin hasar değiştiricisi
 armor.dash=Grants %s dashes
 armor.electricJetpack=Ion Jetpack
 armor.explosionImmune=Cannot take any damage except from explosions
-armor.fasterReload=Faster Reload
-armor.fastFall=Fast Fall
-armor.fireproof=Fireproof
-armor.fullSetBonus=Full Set Bonus:
-armor.geigerHUD=Built-In Geiger Counter HUD
-armor.geigerSound=Auditory Geiger Counter
-armor.glider=Sneak to glide
-armor.gravity=Gravity modifier of %s
+armor.fasterReload=Daha Hızlı Yeniden Yükleme
+armor.fastFall=Hızlı Düşüş
+armor.fireproof=Yangına dayanıklı
+armor.fullSetBonus=Tam Set Bonusu:
+armor.geigerHUD=Yerleşik Geiger Sayacı HUD
+armor.geigerSound=İşitsel Geiger Sayacı
+armor.glider=Eğilerek Süzül
+armor.gravity=%s un yerçekimi değiştiricisi
 armor.hardLanding=Hard Landing
 armor.ignoreLimit=Resistance is not affected by resistance limit
 armor.modifier=General damage modifier of %s
@@ -6444,6 +6444,7 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
+
 
 
 
