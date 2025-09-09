@@ -1,10 +1,10 @@
 achievement.acidizer.desc=oof ow derim
 achievement.acidizer=Asidik
 achievement.assembly.desc=Bekle, Saat Şimdiden 1 mi?
-achievement.assembly=The Factory Grows
-achievement.FOEQ.desc=Send a relay into martian...I mean dunaian orbit.
-achievement.FOEQ=Pegasi and Missile Silos
-achievement.breeding.desc=Thank you, god bless you, and god bless the United States of America.
+achievement.assembly=Fabrika Büyümeli
+achievement.FOEQ.desc=Martian'a bir röle gönder...Yani dunaian yörüngesine.
+achievement.FOEQ=Pegasi ve Füze Siloları
+achievement.breeding.desc=Teşşekür ederim, tanrı seni kutsasın, ve tanrı Amerika Birleşik Devletlerinide kutsasın.
 achievement.breeding=Ironic
 achievement.bismuth.desc=Remember when people complained about this for a month? I do.
 achievement.bismuth=Bismuth
@@ -6444,4 +6444,5 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
+
 
