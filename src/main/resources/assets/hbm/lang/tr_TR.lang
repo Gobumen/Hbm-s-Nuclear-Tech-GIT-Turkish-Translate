@@ -96,19 +96,19 @@ achievement.redBalloons.desc=“İşte beklediğimiz şey bu. İşte bu, çocukl
 achievement.redBalloons=99 Tane Kırmızı Balon
 achievement.redRoom.desc=?
 achievement.redRoom=Öbür Taraf
-achievement.sacrifice.desc=Face the fire and live.
+achievement.sacrifice.desc=Ateş ve Yaşam Yüzü.
 achievement.sacrifice=Sororicide
-achievement.schrab.desc=Regardless, I wouldn't look at it for too long.
-achievement.schrab=Island of Stability
-achievement.selenium.desc=Yeah.
+achievement.schrab.desc=Yine de, ona çok uzun süre bakamazdım.
+achievement.schrab=Stabilite Adası
+achievement.selenium.desc=Evet.
 achievement.selenium=XVIII The Moon
-achievement.SILEX.desc=It's cooler then it sounds, I promise.
-achievement.SILEX=Separation of Isotopes by Laser Exitation
+achievement.SILEX.desc=Duyduğunuzdan daha havalı, söz veriyorum.
+achievement.SILEX=Lazer Uyarımı ile İzotopların Ayrılması
 achievement.slimeball.desc=
-achievement.slimeball=I should dip my balls in sulfuric acid.
-achievement.stratum.desc=Hit the brakes, Mitts.
+achievement.slimeball=Toplarımı sülfürik aside batırmalıyım.
+achievement.stratum.desc=Frene bas, Mitts.
 achievement.stratum=Stratum
-achievement.someWounds.desc=Get ready
+achievement.someWounds.desc=Hazır ol
 achievement.someWounds=Some Wounds Never Heal
 achievement.soyuz.desc=Become crunchy.
 achievement.soyuz=Baked Potato
@@ -6444,6 +6444,7 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
+
 
 
 
