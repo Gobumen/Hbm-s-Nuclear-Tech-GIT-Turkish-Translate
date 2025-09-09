@@ -1,6 +1,6 @@
-achievement.acidizer.desc=oof ow my skin
-achievement.acidizer=Acidic
-achievement.assembly.desc=Wait, it's already 1 am?
+achievement.acidizer.desc=oof ow derim
+achievement.acidizer=Asidik
+achievement.assembly.desc=Bekle, Saat Şimdiden 1 mi?
 achievement.assembly=The Factory Grows
 achievement.FOEQ.desc=Send a relay into martian...I mean dunaian orbit.
 achievement.FOEQ=Pegasi and Missile Silos
@@ -6444,3 +6444,4 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
+
