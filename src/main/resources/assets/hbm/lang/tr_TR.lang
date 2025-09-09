@@ -184,21 +184,21 @@ armorMod.type.leggings=Pantolon
 armorMod.type.servo=Servolar
 armorMod.type.special=Özel
 
-autoswitch=Part of auto switch group "%s"$Recipe changes based on first ingredient
-autoswitch.plate=Reprocessing Plate Fuel
-autoswitch.plates=Metal Plates
-autoswitch.pwr=Reprocessing PWR Fuel
-autoswitch.schrab=Schrabidium Extraction
-autoswitch.watz=Reprocessing Watz Pellet
-autoswitch.zirnox=Reprocessing ZIRNOX Fuel
+autoswitch=Otomatik anahtar grubu “%s”$Recipe'nin bir parçası, ilk malzemeye göre değişir.
+autoswitch.plate=Plaka Yakıtını Yeniden İşleme
+autoswitch.plates=Metal Plakalar
+autoswitch.pwr=Reprocessing PWR Yakıtı
+autoswitch.schrab=Schrabidium Ekstraksiyonu
+autoswitch.watz=Reprocessing Watz Pelet
+autoswitch.zirnox=Reprocessing ZIRNOX Yakıtı
 
-battery.mode.buffer=Input/Output Mode
-battery.mode.input=Input Mode
-battery.mode.off=OffW
-battery.mode.output=Output Mode
-battery.priority.high=Charge Priority: High
-battery.priority.high.desc=Emergency buffers that$always need to be full
-battery.priority.low=Charge Priority: Low
+battery.mode.buffer=Giriş/Çıkış Modu
+battery.mode.input=Giriş Modu
+battery.mode.off=Kapalı
+battery.mode.output=Çıkış Modu
+battery.priority.high=Charge Priority: Yüksek
+battery.priority.high.desc=Acil durum tamponları bu$herzaman full olması gerekir
+battery.priority.low=Charge Priority: Düşük
 battery.priority.low.desc=Most use-cases where surplus$energy needs to be stored without$affecting machine performance
 battery.priority.normal=Charge Priority: Normal
 battery.priority.normal.desc=Smaller power grids where$priority doesn't matter
@@ -6444,6 +6444,7 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
+
 
 
 
