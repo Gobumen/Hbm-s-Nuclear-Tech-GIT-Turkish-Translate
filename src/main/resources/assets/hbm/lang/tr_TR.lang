@@ -132,15 +132,15 @@ achievement.ZIRNOXBoom.desc=başa çıkmak, kaynamak, lanetlemek
 achievement.ZIRNOXBoom=CIRNOX
 
 analyze.basic1======NTM Bileşeni=====
-analyze.basic2Daha fazla belge wiki'de bulunabilir.
+analyze.basic2=Daha fazla belge wiki'de bulunabilir.
 analyze.basic3====Ekstra Bilgi===
-analyze.dummy=Type: Manken Bloğu
+analyze.dummy=Tip: Manken Bloğu
 analyze.error=Bu bloğun uyumluluğu doğru şekilde ayarlanmamış, bu bir hata olarak bildirilmemelidir!
 analyze.name=Name: %s
 analyze.noInfo=Ek bilgi yok.
 
-armor.blastProtection=Patlamalara karşı %s in hasar değiştirici
-armor.cap=%s in sert hasar sınırı
+armor.blastProtection=Patlamalara karşı %s hasar değiştirici
+armor.cap=%s sert hasar sınırı
 armor.damageModifier=%s ye karşı %s nin hasar değiştiricisi
 armor.dash=Ödüllendirildi %s dasheler
 armor.electricJetpack=Ion Jetpack
@@ -158,7 +158,7 @@ armor.ignoreLimit=Direnç, direnç sınırından etkilenmez.
 armor.modifier=%s in genel hasar değiştiricisi
 armor.moreAmmo=Daha Fazla Mermi
 armor.nullDamage=%s'den gelen tüm hasarı geçersiz kılar.
-armor.projectileProtection=%s'nin mermilere karşı hasar değiştiricisi
+armor.projectileProtection=%s mermilere karşı hasar değiştiricisi
 armor.rocketBoots=Roket Botlar
 armor.sprintBoost=Güçlendirilmiş Koşu
 armor.stepSize=Adım boyutu: %s
@@ -184,7 +184,7 @@ armorMod.type.leggings=Pantolon
 armorMod.type.servo=Servolar
 armorMod.type.special=Özel
 
-autoswitch=Otomatik anahtar grubu “%s”$Recipe'nin bir parçası, ilk malzemeye göre değişir.
+autoswitch=Otomatik anahtar grubu “%s”$Tarif'nin bir parçası, ilk malzemeye göre değişir.
 autoswitch.plate=Plaka Yakıtını Yeniden İşleme
 autoswitch.plates=Metal Plakalar
 autoswitch.pwr=Reprocessing PWR Yakıtı
@@ -197,51 +197,51 @@ battery.mode.input=Giriş Modu
 battery.mode.off=Kapalı
 battery.mode.output=Çıkış Modu
 battery.priority.high=Charge Priority: Yüksek
-battery.priority.high.desc=Acil durum tamponları bu$herzaman full olması gerekir
+battery.priority.high.desc=Acil durum tanponlarının$herzaman full olması gerekyor.
 battery.priority.low=Charge Priority: Düşük
-battery.priority.low.desc=Most use-cases where surplus$energy needs to be stored without$affecting machine performance
+battery.priority.low.desc=Çoğu kullanım durumunda$enerjinin makine performansına$etki etmeden depolanmalıdır
 battery.priority.normal=Charge Priority: Normal
-battery.priority.normal.desc=Smaller power grids where$priority doesn't matter
+battery.priority.normal.desc=Daha küçük güç şebekesi$nerde olduğu fark etmez.
 battery.priority.recommended=Recommended for:
-battery.redstone.off=Redstone OFF
-battery.redstone.on=Redstone ON
+battery.redstone.off=Redstone Kapalı
+battery.redstone.on=Redstone Açık
 
 bomb.detonated=Detonated successfully!
-bomb.incompatible=Device can not be triggered!
-bomb.launched=Launched successfully!
-bomb.missingComponent=Component missing!
-bomb.nobomb=Linked position incompatible or unloaded!
-bomb.triggered=Triggered successfully!
+bomb.incompatible=Cihaz tetiklenemez!
+bomb.launched=Başarıyla fırlatıldı!
+bomb.missingComponent=Bileşen eksik!
+bomb.nobomb=Bağlantılı konum uyumsuz veya yüklenmemiş!
+bomb.triggered=Başarıyla tetiklendi!
 
 book.test.cover=HOW 2 SEX
 book.test.page1=Test Page 1
 
-book.error.cover=Hadron Collider:$Troubleshooting
-book.error.title1=Error 0x01 [NC]
-book.error.page1=§lName:§r "ERROR_NO_CHARGE" §lDescription:§r The particle has reached a segment with insufficient charge. §lPotential fix:§r Either replace one of the plugs that the particle successfully passes with higher-tier ones or add another plug slightly before the segment where the particle expires.
-book.error.title2=Error 0x02 [NA]
-book.error.page2=§lName:§r "ERROR_NO_ANALYSIS" §lDescription:§r The particle has reached the core, despite not passing an analysis chamber. §lPotential fix:§r Make sure that your accelerator has an analysis chamber and double-check the operating mode (linear/circular).
-book.error.title3=Error 0x03 [OC]
-book.error.page3=§lName:§r "ERROR_OBSTRUCTED_CHANNEL" §lDescription:§r The particle has collided with a block inside the collider's channel. §lPotential fix:§r Make sure that the inside of your particle collider is free of any obstructions, except for particle diodes and core blocks.
-book.error.title4=Error 0x04 [EC]
-book.error.page4=§lName:§r "ERROR_EXPECTED_COIL" §lDescription:§r The particle has passed a segment that lacks one or multiple coils. §lPotential fix:§r Remove the plating of the collider in the offending area and check if all the coils are there. This error will also happen at T-crossings that are built without diodes.
-book.error.title5=Error 0x05 [MS]
-book.error.page5=§lName:§r "ERROR_MALFORMED_SEGMENT" §lDescription:§r The particle has passed a segment that was built incorrectly (but neither obstructed nor missing coils). §lPotential fix:§r Make sure that the offending segment has platings in all the required spaces, leaving no coils exposed.
-book.error.title6=Error 0x06 [ATL]
-book.error.page6=§lName:§r "ERROR_ANALYSIS_TOO_LONG" §lDescription:§r The particle has passed more than the three required valid analysis chamber segments. §lPotential fix:§r Make sure that the analysis chamber is exactly 3 blocks long for circular accelerator and at least 2 blocks long for linear ones. Also check if the particle doesn't pass multiple analysis chambers in a branching and/or looped accelerator.
-book.error.title7=Error 0x07 [ATS]
-book.error.page7=§lName:§r "ERROR_ANALYSIS_TOO_SHORT" §lDescription:§r The particle has left the analysis chamber, despite not meeting the length requirement. §lPotential fix:§r Make sure that the analysis chamber on your circular accelerator is exactly 3 blocks long. Valid analysis segments have no coils and the plating is entirely composed of analysis chamber walls/windows. Analysis chambers with coils in them count as regular segments.
-book.error.title8=Error 0x08 [DC]
-book.error.page8=§lName:§r "ERROR_DIODE_COLLISION" §lDescription:§r The particle collided with a non-input side of a schottky particle diode. §lPotential fix:§r Check if your diodes are configured correctly. Particles can only enter the diode from sides with green inward-pointing arrows.
-book.error.title9=Error 0x09 [BT]
-book.error.page9=§lName:§r "ERROR_BRANCHING_TURN" §lDescription:§r The particle has reached a turn with multiple exits. §lPotential fix:§r If your turn is a normal one, check if all the required coils are present (i.e. no holes in the coil layer). If the turn is intended to be branched, it requires a schottky particle diode that is correctly configured.
+book.error.cover=Hadron Çarpıştırıcısı:$Sorun Giderme
+book.error.title1=Hata 0x01 [NC]
+book.error.page1=§lName:§r “HATA_ŞARJ_YOK” §lAçıklama:§r Parçacık, yeterli yükü olmayan bir segmente ulaştı. §lOlası çözüm:§r Parçacığın başarıyla geçtiği fişlerden birini daha yüksek seviyeli olanlarla değiştirin veya parçacığın süresinin dolduğu segmentin biraz öncesine başka bir fiş ekleyin.
+book.error.title2=Hata 0x02 [NA]
+book.error.page2=§lName:§r “HATA_ANALİZ_YOK” §lAçıklama:§r Parçacık, analiz odasından geçmemesine rağmen çekirdeğe ulaşmıştır. §lOlası çözüm:§r Hızlandırıcınızda bir analiz odası olduğundan emin olun ve çalışma modunu (doğrusal/dairesel) iki kez kontrol edin.
+book.error.title3=Hata 0x03 [OC]
+book.error.page3=§lName:§r “HATA_ENGELENMİŞ_KANAL” §lAçıklama:§r Parçacık, çarpıştırıcının kanalı içindeki bir blokla çarpıştı. §lOlası çözüm:§r Parçacık çarpıştırıcınızın içinde, parçacık diyotları ve çekirdek blokları dışında herhangi bir engel olmadığından emin olun.
+book.error.title4=Hata 0x04 [EC]
+book.error.page4=§lName:§r “HATA_BEKLENEN_BOBİN” §lAçıklama:§r Parçacık, bir veya birden fazla bobin eksik olan bir segmentten geçmiştir. §lOlası çözüm:§r Sorunlu alandaki çarpıştırıcının kaplamasını kaldırın ve tüm bobinlerin yerinde olup olmadığını kontrol edin. Bu hata, diyotlar olmadan inşa edilmiş T kavşaklarda da meydana gelir.
+book.error.title5=Hata 0x05 [MS]
+book.error.page5=§lName:§r “HATA_HATALI_SEGMENT” §lAçıklama:§r Parçacık, yanlış oluşturulmuş bir segmentten geçmiştir (ancak engellenmemiş veya eksik bobinler yoktur). §lOlası çözüm:§r Sorunlu segmentin gerekli tüm alanlarda kaplamaları olduğundan ve hiçbir bobinin açıkta kalmadığından emin olun.
+book.error.title6=Hata 0x06 [ATL]
+book.error.page6=§lName:§r "HATA_ANALİZ_ÇOK_UZUN" §lAçıklama:§r Parçacık, gerekli olan üç geçerli analiz odası segmentinden fazlasını geçmiştir. §lOlası çözüm:§r Analiz odasının dairesel hızlandırıcılar için tam olarak 3 blok uzunluğunda ve doğrusal hızlandırıcılar için en az 2 blok uzunluğunda olduğundan emin olun. Ayrıca, parçacığın dallanmış ve/veya döngülü bir hızlandırıcıda birden fazla analiz odasından geçip geçmediğini kontrol edin.
+book.error.title7=Hata 0x07 [ATS]
+book.error.page7=§lName:§r “ HATA_ANALİZ_ÇOK_KISA ” §lAçıklama:§r Parçacık, uzunluk gereksinimini karşılamamasına rağmen analiz odasından çıkmıştır. §lOlası çözüm:§r Dairesel hızlandırıcınızdaki analiz odasının tam olarak 3 blok uzunluğunda olduğundan emin olun. Geçerli analiz segmentlerinde bobin yoktur ve kaplama tamamen analiz odası duvarları/pencerelerinden oluşur. İçinde bobin bulunan analiz odaları normal segmentler olarak sayılır.
+book.error.title8=Hata 0x08 [DC]
+book.error.page8=§lName:§r "HATA_DİYOT_CARPIŞMASI" §lAçıklama:§r Parçacık, schottky parçacık diyotunun giriş olmayan tarafıyla çarpıştı. §lOlası çözüm:§r Diyotlarınızın doğru şekilde yapılandırıldığını kontrol edin. Parçacıklar, diyota yalnızca yeşil renkli içe doğru okların bulunduğu taraflardan girebilir.
+book.error.title9=Hata 0x09 [BT]
+book.error.page9=§lName:§r "HATA_DALLANMA_DÖNÜŞÜ" §lAçıklama:§r Parçacık, birden fazla çıkışa sahip bir dönüş noktasına ulaşmıştır. §lOlası çözüm:§r Dönüşünüz normal bir dönüş ise, gerekli tüm bobinlerin mevcut olup olmadığını kontrol edin (yani bobin katmanında delik olup olmadığını kontrol edin). Dönüşün dallanması amaçlanıyorsa, doğru şekilde yapılandırılmış bir schottky parçacık diyotu gerekir.
 
-book.rbmk.cover=My first RBMK:$Basics of$building a$reactor
-book.rbmk.title1=Introduction
-book.rbmk.page1=§lRBMK§r is fully modular nuclear reactor. Unlike most other reactors, there is no "core" and no size restrictions, rather behavior and efficiency of reactor depends on how it is built and how various parts interact with each other.
-book.rbmk.title2=Heat
+book.rbmk.cover=İlk RBMK'em :$Reaktör$inşa etmenin$temelleri
+book.rbmk.title1=Giriş
+book.rbmk.page1=§lRBMK§r tamamen modüler bir nükleer reaktördür. Diğer reaktörlerin çoğundan farklı olarak, “çekirdek” ve boyut kısıtlaması yoktur; reaktörün davranışı ve verimliliği, nasıl inşa edildiğine ve çeşitli parçaların birbirleriyle nasıl etkileşime girdiğine bağlıdır.
+book.rbmk.title2=Isı
 book.rbmk.page2=As reactor runs, it will generate §lheat§r. Heat will spread between parts, slowly decreasing in the process. The goal is to generate as much heat as possible without melting the reactor, and to transfer heat into steam passages that cool reactor and produce steam.
-book.rbmk.title3=Fuel Rod
+book.rbmk.title3=Yakıt Çubuğu
 book.rbmk.page3=The §lfuel rod§r will capture neutron flux, causing fuel inside the rod to react, releasing neutrons in the process. Neutrons are released in all four main directions with a maximum range of 5 blocks. The amount of released neutrons depends on fuel used.
 book.rbmk.title4=Regulating Rod
 book.rbmk.page4=The §lcontrol rod§r will reduce number of neutrons passing through. Fully inserted, it will block all neutrons; when inserted halfway, it will only block half. Control rods are used to regulate activity of the reactor and shut it down.
@@ -6444,6 +6444,7 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
+
 
 
 
