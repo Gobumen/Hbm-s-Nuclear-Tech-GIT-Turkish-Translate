@@ -240,14 +240,14 @@ book.rbmk.cover=İlk RBMK'em :$Reaktör$inşa etmenin$temelleri
 book.rbmk.title1=Giriş
 book.rbmk.page1=§lRBMK§r tamamen modüler bir nükleer reaktördür. Diğer reaktörlerin çoğundan farklı olarak, “çekirdek” ve boyut kısıtlaması yoktur; reaktörün davranışı ve verimliliği, nasıl inşa edildiğine ve çeşitli parçaların birbirleriyle nasıl etkileşime girdiğine bağlıdır.
 book.rbmk.title2=Isı
-book.rbmk.page2=As reactor runs, it will generate §lheat§r. Heat will spread between parts, slowly decreasing in the process. The goal is to generate as much heat as possible without melting the reactor, and to transfer heat into steam passages that cool reactor and produce steam.
+book.rbmk.page2=Reaktör çalışırken, §ısı§ üretir. Isı, parçalar arasında yayılır ve bu süreçte yavaş yavaş azalır. Amaç, reaktörü eritmeden mümkün olduğunca fazla ısı üretmek ve ısıyı reaktörü soğutan ve buhar üreten buhar kanallarına aktarmaktır.
 book.rbmk.title3=Yakıt Çubuğu
-book.rbmk.page3=The §lfuel rod§r will capture neutron flux, causing fuel inside the rod to react, releasing neutrons in the process. Neutrons are released in all four main directions with a maximum range of 5 blocks. The amount of released neutrons depends on fuel used.
+book.rbmk.page3=§rYakıt çubuğu§r nötron akısını yakalayarak çubuğun içindeki yakıtın reaksiyona girmesine ve bu süreçte nötronların salınmasına neden olur. Nötronlar dört ana yönde maksimum 5 blok menzili ile salınır. Salınan nötron miktarı kullanılan yakıta bağlıdır.
 book.rbmk.title4=Regulating Rod
-book.rbmk.page4=The §lcontrol rod§r will reduce number of neutrons passing through. Fully inserted, it will block all neutrons; when inserted halfway, it will only block half. Control rods are used to regulate activity of the reactor and shut it down.
+book.rbmk.page4=§rKontrol çubuğu§r geçen nötron sayısını azaltır. Tamamen sokulduğunda tüm nötronları engeller; yarıya kadar sokulduğunda ise sadece yarısını engeller. Kontrol çubukları, reaktörün aktivitesini düzenlemek ve kapatmak için kullanılır.
 book.rbmk.title5=Regulating Rods - Usage
 book.rbmk.title5.scale=0.9
-book.rbmk.page5=The current bar insertion will be displayed in the center of GUI. The colored buttons on left will add the control bar to the color group, which is useful for quickly selecting grouped bars on §lRBMK§r console. The buttons on right allow you to manually insert in 25%% increments.
+book.rbmk.page5=Mevcut çubuk ekleme işlemi GUI'nin ortasında görüntülenecektir. Soldaki renkli düğmeler kontrol çubuğunu renk grubuna ekleyecektir; bu, §lRBMK§r konsolunda gruplandırılmış çubukları hızlı bir şekilde seçmek için kullanışlıdır. Sağdaki düğmeler, 25%%'lik artışlarla manuel olarak ekleme yapmanızı sağlar. 
 book.rbmk.title6=Automatic Control Rods
 book.rbmk.page6=§LAutomatic control rods§r are almost identical to regular control rods, but they cannot be manually adjusted, instead they will adjust position of the rod based on current temperature. Which function to use and how deep to insert and at what temperature must be determined first.
 book.rbmk.title7=Steam Channel
@@ -6444,13 +6444,3 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
-
-
-
-
-
-
-
-
-
-
