@@ -294,9 +294,9 @@ book.starter.title10=Advanced Machinery
 book.starter.page10=Petrol işleme becerisini edindikten sonra, cevher üretimini üç katına çıkaran §lSantrifüj§r, cevherleri kristalleştirerek verimi artıran §lCevher §lAsitleyici§r ve malzemelerin izotoplarını kolaylıkla ayırabilen modern mühendisliğin iki harikası §lSILEX + §lFEL§r'yi oluşturabilirsiniz. Bunları çalıştırmak için çok daha fazla enerjiye ihtiyacınız olacak; bu enerjiyi §lDizel Jeneratör§r, §lEndüstriyel Jeneratör§r veya hatta bir nükleer reaktör gibi kaynaklardan elde edebilirsiniz.
 book.starter.title11=Şist
 book.starter.page11=Yürüdüğünüz zeminin altında, doğal olarak oluşan §lŞist§r veya özel mineral tabakaları ve oluşumları bulunmaktadır. §lŞist§r, uranyum, demir, bakır, asbest ve kendi kullanımınız için diğer cevherlerle dolu lityum içeren katmanlar olup lityum içerir. §lDerinlik Kayası§r, §lZirkonyum§r ve §lBor§r gibi daha nadir bulunan mineralleri büyük miktarlarda içerir, ancak doğru şekilde çıkarılması için patlayıcılar gerekir.
-book.starter.title12=Radiation
-book.starter.page12a=§oThe rest of this book will deal with matters that involve §oradiation. For the safety of you and others, I will give §oadvice on how to mitigate and deal with exposure to it.
-book.starter.page12b=Enough exposure to radiation can and will cause bodily harm. The first step is prevention; be sure to limit your exposure, and wear protective gear, such as a §lHazmat Suit§r, or apply §lCladding§r to your clothing or armor; you can also take §lRad-X§r to limit your intake. Thanks to modern medicine, the second step can be removal if necessary; for example, a §lPlayer §lDecontaminator§r will slowly reduce the radiation absorbed by your body. §lRad-Away§r can also be used as a post-exposure prophylaxis, quickly and effectively reversing damage caused to your body by ionizing radiation.
+book.starter.title12=Radyasyon
+book.starter.page12a=§oBu kitabın geri kalanında §oradyasyon ile ilgili konular ele alınacaktır. Sizin ve başkalarının güvenliği için, §oradyasyona maruz kalmayı azaltma ve bununla başa çıkma konusunda §oönerilerde bulunacağım.
+book.starter.page12b=Yeterli miktarda radyasyona maruz kalmak vücuda zarar verebilir ve verecektir. İlk adım önlem almaktır; maruz kalma süresini sınırlayın ve §lHazmat Suit§r gibi koruyucu giysiler giyin veya giysilerinize veya zırhınıza §lKaplama§r uygulayın; ayrıca §lRad-X§r kullanarak radyasyon alımını sınırlayabilirsiniz. Modern tıp sayesinde, ikinci adım gerekirse radyasyonu gidermek olabilir; örneğin, §lOyuncu §lDekontaminatör§r vücudunuzun emdiği radyasyonu yavaşça azaltır. §lRad-Away§r de maruz kaldıktan sonra profilaksi olarak kullanılabilir ve iyonlaştırıcı radyasyonun vücudunuza verdiği zararı hızlı ve etkili bir şekilde tersine çevirir.
 book.starter.title13=Uranyum Zenginleştirmesi
 book.starter.page13=Nükleer reaktörlerde kullanılabilecek birkaç kolay yakıt seçeneği vardır; örneğin, §lDoğal Uranyum§r veya §lToryum Yakıtı§r. Ancak, daha güçlü bir şey arıyorsanız, iki §lGaz Santrifüjü§r ile bir zenginleştirme kaskadı kurarak §lUranyum Yakıtı§r ve artık §lUranyum-238§r üretebilirsiniz. Bunu yapmak için doğal uranyumu §lSarı Kek§r'e, ardından §lUranyum §lHeksaflorür§r'e dönüştürmeniz gerekecektir.
 book.starter.title14=Chicago Pile
@@ -361,86 +361,86 @@ book_lore.book_phosphorous.author=Dave
 book_lore.book_phosphorous.page.0=Selam, yine ben. Son notumu aldığını varsayıyorum, dok bundan pek memnun değildi. Bunu çabuk halletmem gerek, Ar-Ge'deki ahmaklar yine sızlanmaya başladılar, muhtemelen para yüzünden. Yine. Neyse, doktor Weathervane ikinciyi buldu.
 book_lore.book_phosphorous.page.1=Bileşen kırmızı fosfor olup, %d yuvasına karıştırılmalıdır.
 
-book_lore.book_dust.name=Note
+book_lore.book_dust.name=Not
 book_lore.book_dust.author=Dave
-book_lore.book_dust.page.0=the doc was furious when he found out that the R&D dorks kept the one remaining sample, ranting about gross negligence this and a doomsday scenario that. i told him to chill for a minute, getting all worked up isn't good for his blood pressure, not
-book_lore.book_dust.page.1=that he has much blood left to begin with. one of the R&D morons slipped some more info into last week's circular, they call their little concoction "MKU" whatever that means, and that it contains actual household lint. can you believe that? one of the most
-book_lore.book_dust.page.2=dangerous inventions of theirs and it contains dust. strangely they also mentioned that it goes into slot %d
+book_lore.book_dust.page.0=Doktor, Ar-Ge ekibinin kalan tek örneği sakladığını öğrenince çok sinirlendi, ağır ihmalden ve kıyamet senaryosundan bahsederek bağırıp çağırdı. Ona biraz sakinleşmesini söyledim, bu kadar sinirlenmesinin tansiyonuna iyi gelmeyeceğini söyledim.
+book_lore.book_dust.page.1=başlangıçta çok fazla kanı kaldığını. Ar-Ge'deki aptallardan biri geçen haftaki genelgeye biraz daha bilgi eklemiş, küçük karışımlarına “MKU” diyorlar, ne anlama geldiğini bilmiyorum, ve içinde gerçek ev tozu var. İnanabiliyor musun? En çok
+book_lore.book_dust.page.2=onların tehlikeli icatları toz içeriyor. garip bir şekilde, bunun %d yuvasına girdiğini de belirttiler.
 
-book_lore.book_mercury.name=Note
+book_lore.book_mercury.name=Not
 book_lore.book_mercury.author=Dave
-book_lore.book_mercury.page.0=well that settles that. not counting the vomitting blood part, the toxicological report mostly resembles that of mercury poisoning. why? because our little mix also contains mercury! i just wonder where all that stuff comes from when being
-book_lore.book_mercury.page.1=replicated by the body? whatever, the mercury goes into slot %d
+book_lore.book_mercury.page.0=Bu konuyu hallettik. Kan kusma kısmını saymazsak, toksikolojik rapor çoğunlukla cıva zehirlenmesine benziyor. Neden mi? Çünkü bizim küçük karışımımız da cıva içeriyor! Sadece tüm bu maddelerin nereden geldiğini merak ediyorum.
+book_lore.book_mercury.page.1=vücut tarafından kopyalanır mı? her neyse, cıva %d yuvasına girer
 
-book_lore.book_flower.name=Note
+book_lore.book_flower.name=Not
 book_lore.book_flower.author=Dave
-book_lore.book_flower.page.0=remember when i mentioned in my first memo that the compound is mostly anorganic? well guess what, the old man shared the fourth ingredient: ipomoea nil, a genus of flower. morning glory! it might be due to its low sulfur content, whatever might be the case,
-book_lore.book_flower.page.1=it does not work with other flowers. the morning glory goes into slot %d
+book_lore.book_flower.page.0=İlk notumda bileşiğin çoğunlukla anorganik olduğunu söylediğimi hatırlıyor musun? Tahmin et ne oldu, yaşlı adam dördüncü bileşeni paylaştı: ipomoea nil, bir çiçek türü. Sabah zaferi! Düşük kükürt içeriğinden kaynaklanıyor olabilir, her ne olursa olsun,
+book_lore.book_flower.page.1=diğer çiçeklerle çalışmaz. sabah zaferi %d yuvasına girer
 
-book_lore.book_syringe.name=Note
+book_lore.book_syringe.name=Not
 book_lore.book_syringe.author=Dave
-book_lore.book_syringe.page.0=a little addendum to my fifth message, obviously you have to store this MKU stuff in a container. the R&D nuts used regular metal syringes that they got from medical. surplus ware i presume, they got thousands of needles just lying around. the metal
-book_lore.book_syringe.page.1=syringe goes into slot %d
+book_lore.book_syringe.page.0=a Beşinci mesajıma küçük bir ekleme: elbette bu MKU malzemelerini bir kapta saklamanız gerekir. Ar-Ge çılgınları, tıbbi malzemelerden aldıkları normal metal şırıngaları kullandılar. Sanırım fazla malzemeydi, binlerce iğne ortalıkta duruyordu. Metal
+book_lore.book_syringe.page.1=şırınga %d yuvasına giriyor
 
-book_lore.resignation_note.name=Letter of Resignation
+book_lore.resignation_note.name=İstifa Mektubu
 book_lore.resignation_note.author=Kosma
-book_lore.resignation_note.page.0=Management downsized our department again yesterday. Those idiots only have themselves to blame, I don't know what they were expecting after that fiasco. Who the hell leaks that sort of information? We're losing millions and
-book_lore.resignation_note.page.1=it's ME who's the one out of a job now. I'M the one being asked to resign. I hope you asshats finally learn from your overabundance of mistakes and take that stick out of your ass.
-book_lore.resignation_note.page.2=I'm not coming back on Friday. Just send the paycheck.
+book_lore.resignation_note.page.0=Yönetim dün yine departmanımızı küçülttü. Bu aptallar kendilerini suçlamalılar, o fiyaskodan sonra ne bekliyorlardı bilmiyorum. Kim böyle bir bilgiyi sızdırır ki? Milyonlarca dolar kaybediyoruz ve
+book_lore.resignation_note.page.1=Şu anda işsiz olan benim. İstifa etmesi istenen ben. Umarım siz salaklar, yaptığınız sayısız hatadan ders alır ve kıçımdaki o sopayı çıkarırsınız.
+book_lore.resignation_note.page.2=Cuma günü gelmeyeceğim. Maaş çekini gönderin yeter.
 
-book_lore.memo_stocks.name=Intracorporate Memorandum
-book_lore.memo_stocks.page.0=Investor Relations - $ $ There's been some glaring discrepancies in the figures provided for the latest quarterly report. It would be prudent for the financial department to make some adjustments, so there won't be any concern.
+book_lore.memo_stocks.name=Şirket içi Bildiri
+book_lore.memo_stocks.page.0=Yatırımcı İlişkileri - $ $ Son çeyrek raporunda sunulan rakamlarda bazı göze çarpan tutarsızlıklar var. Finans departmanının bazı düzeltmeler yapması, endişe yaratmaması açısından akıllıca olacaktır.
 
-book_lore.memo_schrab_gsa.name=Internal Memorandum
-book_lore.memo_schrab_gsa.page.0=Contract Management - $ $ Legal has made a breakthrough with the DLA. They've awarded us with a 45 BILLION GSA Schedule for further procurement and research of saralloy. At current estimates, that would be at minimum
-book_lore.memo_schrab_gsa.page.1=a 40%% profit on related operations, let alone the possibility of future contracts. Due to the confidential nature, all fiscal evidence is to remain private.
+book_lore.memo_schrab_gsa.name=Dahili Bildiri
+book_lore.memo_schrab_gsa.page.0=Sözleşme Yönetimi - $ $ Legal, DLA ile önemli bir ilerleme kaydetti. Saralloy'un daha fazla tedariki ve araştırması için bize 45 MİLYAR dolarlık GSA Programı ihalesini verdi. Mevcut tahminlere göre, bu en az
+book_lore.memo_schrab_gsa.page.1=ilgili işlemlerde %40 kar, gelecekteki sözleşmelerin olasılığı bir yana. Gizli nitelik nedeniyle, tüm mali kanıtlar gizli kalacaktır.
 
-book_lore.memo_schrab_rd.name=Internal Memorandum
-book_lore.memo_schrab_rd.page.0=Research & Development - $ $ Our main production method of saralloy has been through the new particle accelerator. However, the energy costs are exorbitantly high compared to the amount of output.
-book_lore.memo_schrab_rd.page.1=Doctor Schrabauer, however, has discovered a new interaction - called "Strange Lepton Oscillation" - that could significantly reduce costs. Through a not entirely understood process, supplied electrons are transmuted into extremely
-book_lore.memo_schrab_rd.page.2=high-energy photons, through a strange charm. This is an extreme exception to many established particle conversion laws, but preliminary experiments have proved that these protons transmute into up and down quarks, eventually creating saralloy.
-book_lore.memo_schrab_rd.page.3=Strangely, the prototype requires Tungsten alloyed with small amounts of saralloy. In addition, a special capacitor is required to negate the leftover positive charge.
+book_lore.memo_schrab_rd.name=Dahili Bildiri
+book_lore.memo_schrab_rd.page.0=Araştırma ve Geliştirme - $ $ Saralloy'un ana üretim yöntemimiz yeni parçacık hızlandırıcısıdır. Ancak, enerji maliyetleri üretim miktarına kıyasla aşırı derecede yüksektir.
+book_lore.memo_schrab_rd.page.1=Ancak Doktor Schrabauer, maliyetleri önemli ölçüde azaltabilecek yeni bir etkileşim keşfetti: “Garip Lepton Salınımı”. Tamamen değilly understood process, supplied electrons are transmuted into extremely
+book_lore.memo_schrab_rd.page.2=yüksek enerjili fotonlar, garip bir çekicilikle. Bu, birçok yerleşik parçacık dönüşüm yasasına aşırı bir istisnadır, ancak ön deneyler bu protonların yukarı ve aşağı kuarklara dönüştüğünü ve sonunda saralloy oluşturduğunu kanıtlamıştır.
+book_lore.memo_schrab_rd.page.3=Garip bir şekilde, prototip az miktarda saralloy ile alaşımlı tungsten gerektiriyor. Ayrıca, kalan pozitif yükü ortadan kaldırmak için özel bir kondansatör gerekiyor.
 
-book_lore.memo_schrab_nuke.name=Research Report
-book_lore.memo_schrab_nuke.author=Doctor Schrabauer
-book_lore.memo_schrab_nuke.page.0=Our most recent investigation led us to the effects of nuclear explosions on materials. Thanks to our grant money, we *accidentally* tested our theory on direct saralloy synthesis from uranium.
-book_lore.memo_schrab_nuke.page.1=Only our cyclotron has actually created saralloy previously. However, at our underground shot at Everwerpen, miniscule traces of saralloy were found in uranium ore at the site. All pure, metallic uranium nearby had fissioned.
-book_lore.memo_schrab_nuke.page.2=As such, given enough uranium ore concentrated around an explosive, or perhaps even a dirty bomb rich in waste containing fissionable material, one could hypothetically create enough saralloy to collect manually.
+book_lore.memo_schrab_nuke.name=Araştırma Raporu
+book_lore.memo_schrab_nuke.author=Doktor Schrabauer
+book_lore.memo_schrab_nuke.page.0=En son araştırmamız bizi nükleer patlamaların malzemeler üzerindeki etkilerine yönlendirdi. Hibe paramız sayesinde, uranyumdan doğrudan saralloy sentezi teorimizi *tesadüfen* test ettik.
+book_lore.memo_schrab_nuke.page.1=Daha önce sadece bizim siklotronumuz saralloy üretmiştir. Ancak, Everwerpen'deki yeraltı çekimimizde, sahadaki uranyum cevherinde çok az miktarda saralloy izleri bulundu. Yakındaki tüm saf, metalik uranyum fisyon geçirmişti.
+book_lore.memo_schrab_nuke.page.2=Bu nedenle, bir patlayıcı etrafında yeterince uranyum cevheri yoğunlaşmışsa veya hatta fisyonlanabilir malzeme içeren atık açısından zengin bir kirli bomba varsa, varsayımsal olarak manuel olarak toplanacak kadar saralloy üretilebilir.
 
-book_lore.bf_bomb_1.name=Private Notes
+book_lore.bf_bomb_1.name=Özel Not
 book_lore.bf_bomb_1.author=M. Porter
-book_lore.bf_bomb_1.page.0=Took long enough, but my transfer was accepted. Those new grads were already hard to handle, let alone all the unprofessionalism of the lead. $ Not all good news - this lab was withholding further detail, and I didn't need more chaos over another magic new discovery.
-book_lore.bf_bomb_1.page.1=Of course that was the case. The alumni had their doubts (surprising, considering how bright-eyed they were), but my only... competent? colleague actually got his hands on the primer hand-out. Must have more connections than I thought. His memo is discouraging:
-book_lore.bf_bomb_1.page.2=apparently, there's yet ANOTHER miracle material that they prodded out of some concoction of antimatter and a fringe isotope. The brochure calls it "SWIRLMAT" - hell if I know - and that's it. No wonder they wanted a theoretical physicist,
-book_lore.bf_bomb_1.page.3=they don't even know what it is yet. Either way, practically any job would be better than my old position, so I can't complain much about sketchiness.
+book_lore.bf_bomb_1.page.0=Uzun sürdü ama transferim kabul edildi. Yeni mezunlar zaten başa çıkması zordu, liderin profesyonellikten uzak tavırları da cabası. $ Haberler tamamen iyi değil - bu laboratuvar daha fazla ayrıntı vermeyi reddediyordu ve başka bir sihirli yeni keşif yüzünden daha fazla kaos istemiyordum.
+book_lore.bf_bomb_1.page.1=Tabii ki öyleydi. Mezunlar şüpheleri vardı (ne kadar parlak gözlü olduklarını düşünürsek şaşırtıcıydı), ama benim tek... yetkin? meslektaşım aslında el kitabını ele geçirdi. Sandığımdan daha fazla bağlantısı olmalı. Notu cesaret kırıcı:
+book_lore.bf_bomb_1.page.2=Görünüşe göre, antimadde ve bir kenar izotop karışımından elde ettikleri BAŞKA bir mucizevi malzeme daha var. Broşürde buna “SWIRLMAT” diyorlar - ne olduğunu bilmiyorum - hepsi bu. Teorik fizikçi istemelerine şaşmamalı.
+book_lore.bf_bomb_1.page.3=tHenüz ne olduğunu bile bilmiyorlar. Her halükarda, neredeyse her iş benim eski pozisyonumdan daha iyi olacaktır, bu yüzden belirsizlik konusunda fazla şikayet edemem.
 
-book_lore.bf_bomb_2.name=Private Notes
+book_lore.bf_bomb_2.name=Özel Not
 book_lore.bf_bomb_2.author=M. Porter
-book_lore.bf_bomb_2.page.0=Despite the absence of information in that primer, I still had some hope they knew a bit more. Not at all. Every other senior researcher has a blind faith in this material; their propositions were practically biblical. I was near speechless.
-book_lore.bf_bomb_2.page.1=And yet I can't even blame them. Swirlmat makes no goddamn sense - it is completely unlike any other substance I've seen before. Its appearance was near frightening, a literal mass of swirling colors, with darker lines permeating through the neon green surface.
-book_lore.bf_bomb_2.page.2=Even worse, this thing is an energy source. The existence of our sample is a violation of ALARA: the lab was vacated when it arrived, and the only person brave enough (one Dr. Melfyn) donned a level A hazmat just to carry it 20 meters.
-book_lore.bf_bomb_2.page.3=The empirical data isn't better, as we're breaking the first law of thermodynamics with how much energy it radiates. Being anywhere near that thing - even behind a meter of lead - was terrifying. We sprinted out of the chamber upon conclusion of the spectroscopy
-book_lore.bf_bomb_2.page.4=and we got nothing new out of it. Those idiots in the science team, god, did not even waver after all that. Sitting through those "discussions" was horrible; that quack of a head researcher even rumored that the test ban would be lifted, that we could be
-book_lore.bf_bomb_2.page.5=building bombs out of the shit in the coming weeks, who in their right mind would work on that? Hell, the one sane assistant (an Andrew) nicknamed it "balefire" - because burning to death on a funeral pyre would be painless by comparison.
+book_lore.bf_bomb_2.page.0=O kitapçıkta bilgi olmamasına rağmen, onların biraz daha fazla bilgiye sahip olduklarını umuyordum. Hiç de öyle değildi. Diğer tüm kıdemli araştırmacılar bu materyale körü körüne inanıyorlardı; önermeleri neredeyse kutsal kitaplardaki gibi idi. Neredeyse dilim tutulmuştu.
+book_lore.bf_bomb_2.page.1=Yine de onları suçlayamıyorum. Swirlmat hiç mantıklı değil - daha önce gördüğüm hiçbir maddeye benzemiyor. Görünüşü neredeyse korkutucuydu, kelimenin tam anlamıyla dönen renklerden oluşan bir kütle, neon yeşili yüzeyin içinden geçen koyu çizgilerle.
+book_lore.bf_bomb_2.page.2=Daha da kötüsü, bu şey bir enerji kaynağı. Numunemizin varlığı ALARA ilkesine aykırıdır: numune geldiğinde laboratuvar boşaltıldı ve sadece bir kişi (Dr. Melfyn) cesaretini toplayarak A seviyesi koruyucu giysi giyip numuneyi 20 metre taşıdı.
+book_lore.bf_bomb_2.page.3=Ampirik veriler daha iyi değil, çünkü yaydığı enerji miktarı ile termodinamiğin birinci yasasını ihlal ediyoruz. O şeyin yakınında olmak - bir metre kalınlığındaki kurşun levhanın arkasında bile olsa - korkunçtu. Spektroskopi tamamlandığında odadan hızla çıktık.
+book_lore.bf_bomb_2.page.4=ve bundan yeni bir şey öğrenemedik. Bilim ekibindeki o aptallar, tanrım, tüm bunlardan sonra bile tereddüt etmediler. O “tartışmaları” dinlemek korkunçtu; baş araştırmacı şarlatanı, test yasağının kaldırılacağı, bizim...
+book_lore.bf_bomb_2.page.5=Önümüzdeki haftalarda boktan bombalar yapmak, aklı başında kim böyle bir şey yapar ki? Lanet olsun, tek aklı başında asistan (Andrew) buna “balefire” (odun ateşi) lakabını taktı - çünkü cenaze ateşinde yanarak ölmek buna kıyasla acısız olurdu.
 
-book_lore.bf_bomb_3.name=Private Notes
+book_lore.bf_bomb_3.name=Özel Not
 book_lore.bf_bomb_3.author=M. Porter
-book_lore.bf_bomb_3.page.0=The team and I have made some breakthroughs. Emphasis on the separation - isolating myself from the more devout has made working there so much more bearable. While we still have no idea about the actual properties of balefire (it's difficult to analyze
-book_lore.bf_bomb_3.page.1=a sample that fries your equipment) its interactions with other matter has proved fruitful. Notably, they synthesized a "gaseous" form: Andrew, of all people, informed me that it was really a colloid consisting of microscopic balefire particles, suspended in some
-book_lore.bf_bomb_3.page.2=noble gas. Each particle is enveloped by a positively-charged 'bubble' of ionized gas, preventing it from settling. Who could've guessed that fatal gamma radiation had a benefit? Not me. $ I'm choosing not to think about how they transformed the sample into
-book_lore.bf_bomb_3.page.3=particulate, but I can't understate the utility of this gaseous balefire - it's made it much safer to experiment on. $ Speaking of safety, the head researcher (in an act of callous disregard) made a discovery that also nearly took his head off.
-book_lore.bf_bomb_3.page.4=He decided to get "dirty" by letting a cell of our new colloid interact directly with some very expensive antimatter: the resulting explosion turned the table it was on into a piece of radiation-bleached slag, carved a near-perfect hemisphere through
-book_lore.bf_bomb_3.page.5=the top, and gave the head a healthy dose of ARS. I guess we know how to make it explode now, but god, some people...
+book_lore.bf_bomb_3.page.0=Ekip ve ben bazı önemli gelişmeler kaydettik. Ayrılığa vurgu yapmak gerekirse, kendimi daha dindar olanlardan izole etmek, orada çalışmayı çok daha katlanılabilir hale getirdi. Balefire'ın gerçek özellikleri hakkında hala hiçbir fikrimiz yok (analiz etmesi zor).
+book_lore.bf_bomb_3.page.1=ekipmanınızı kızartan bir örnek) diğer maddelerle etkileşimi verimli sonuçlar verdi. Özellikle, “gaz halindeki” bir formu sentezlediler: Andrew, bana, bunun aslında mikroskobik balefire parçacıklarından oluşan ve bazı maddelerde asılı kalan bir kolloid olduğunu söyledi.
+book_lore.bf_bomb_3.page.2=asil gaz. Her bir parçacık, iyonize gazdan oluşan pozitif yüklü bir “balon” ile çevrilidir ve bu da parçacığın çökelmesini engeller. Ölümcül gama radyasyonunun bir faydası olabileceğini kim tahmin edebilirdi? Ben değil. $ Örneği nasıl dönüştürdüklerini düşünmemeyi tercih ediyorum.
+book_lore.bf_bomb_3.page.3=partikül, ancak bu gaz halindeki ateşin yararını küçümseyemem - deney yapmayı çok daha güvenli hale getirdi. Güvenlikten bahsetmişken, baş araştırmacı (duygusuz bir ihmal sonucu) neredeyse kafasını uçuracak bir keşif yaptı.
+book_lore.bf_bomb_3.page.4=Yeni kolloidimizin bir hücresinin çok pahalı bir antimadde ile doğrudan etkileşime girmesine izin vererek “kirlenmeye” karar verdi: Sonuçta meydana gelen patlama, üzerinde bulunduğu masayı radyasyonla ağartılmış bir cüruf parçasına dönüştürdü ve neredeyse mükemmel bir yarım küre oydu.
+book_lore.bf_bomb_3.page.5=en tepesine çıkıp kafasına bolca ARS sıktı. Artık onu nasıl patlatacağımızı biliyoruz galiba, ama tanrım, bazı insanlar...
 
-book_lore.bf_bomb_4.name=Private Notes
+book_lore.bf_bomb_4.name=Özel Not
 book_lore.bf_bomb_4.author=M. Porter
-book_lore.bf_bomb_4.page.0=I just can't escape my old work. They're the only place that's hiring despite all this godforsaken turmoil, but I'm not going back into that hole. $ They only tempted me because I need out, fast. Remember that atmospheric testing treaty we withdrew from a week ago?
-book_lore.bf_bomb_4.page.1=Well, the dipshit in charge of our lab got something right for once. The denunciation came with a flurry of new "scientists" joining, just so we could weaponize balefire. The lack of critical thought here is honestly baffling - bless him, Andrew even jumped ship the
-book_lore.bf_bomb_4.page.2=second the first fucking BOMB DESIGN was drafted. That ass Melfyn looked so happy with his little mechanism - perhaps he got brainworms from carrying that sample? - which involved some stupid shit using the solidified, base balefire and an HV
-book_lore.bf_bomb_4.page.3=battery. $ Apparently, the form matters for energy output and activation method or whatever, kind of like uranium versus plutonium in regular nukes, but the end result is an initial shock starting the explosion. I find it funny, hilarious even.
+book_lore.bf_bomb_4.page.0=Eski işimden kaçamıyorum. Bu lanet olası kargaşaya rağmen iş veren tek yer orası, ama o çukura geri dönmeyeceğim. $ Beni sadece acilen bir çıkışa ihtiyacım olduğu için baştan çıkardılar. Bir hafta önce çekildiğimiz atmosferik test anlaşmasını hatırlıyor musun?
+book_lore.bf_bomb_4.page.1=Eh, laboratuvarımızın sorumlusu olan salak bir kez olsun doğru bir şey yaptı. İhbar, balefire'ı silah haline getirebilmemiz için bir sürü yeni “bilim adamı”nın katılımıyla geldi. Buradaki eleştirel düşünce eksikliği gerçekten şaşırtıcı - Andrew bile gemiyi terk etti, Allah onu korusun.
+book_lore.bf_bomb_4.page.2=İlk bomba tasarımı hazırlandı. O pislik Melfyn, küçük mekanizmasıyla çok mutlu görünüyordu - belki de o numuneyi taşıdığı için beyni kurtlanmış olabilir? - bu mekanizma, katılaşmış baz balefire ve HV kullanılarak yapılan aptalca bir şeydi.
+book_lore.bf_bomb_4.page.3=pil. $ Görünüşe göre, enerji çıkışı ve aktivasyon yöntemi veya her neyse, normal nükleer bombalardaki uranyum ile plütonyum gibi, form önemli ama sonuçta patlamayı başlatan ilk şok oluyor. Bunu komik, hatta çok komik buluyorum.
 book_lore.bf_bomb_4.page.4=All of them place such emphasis on the activation; they ignore the actual mechanism of it all because they don't have a single clue how it works! It may as well be magic at this point, and yet they're still trying to twist and bend it - just for more weapons of war.
 
-book_lore.bf_bomb_5.name=Private Notes
+book_lore.bf_bomb_5.name=Özel Not
 book_lore.bf_bomb_5.author=M. Porter
 book_lore.bf_bomb_5.page.0=I just... can't come to grips with it, even days after. It was a foregone conclusion, really, with how flippant the science team was with safety. $ $ Doctor Melfyn, M.S., is gone. Dead, maybe. I saw it happen before my own eyes, in their test chamber.
 book_lore.bf_bomb_5.page.1=We had just gotten another batch of pure balefire, and he had recovered electrical equipment and an energy source to test his proposal. I don't know what caused it (was the power on? had he begun too soon?), but it seemingly progressed in agonizingly slow motion,
@@ -6443,5 +6443,3 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
-
-
