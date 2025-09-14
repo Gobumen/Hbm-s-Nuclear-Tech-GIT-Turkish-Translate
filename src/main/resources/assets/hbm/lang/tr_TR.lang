@@ -2118,7 +2118,7 @@ item.bedrock_ore.type.light.name=Hafif Metal
 item.bedrock_ore.type.nonmetal.name=Metal Olmayan
 item.bedrock_ore.type.rare.name=Nadir Toprak
 item.bedrock_ore_base.name=Ham Katman Kayası Cevheri
-item.bedrock_ore_fragment.name=%s Katman Kayası Cevheri Parça
+item.bedrock_ore_fragment.name=%s Katman Kayası Cevher Parçası
 item.beta.name=Beta Özellikleri
 item.big_sword.name=Harika Kılıç
 item.billet_actinium.name=Aktinyum-227 Kütüğü
@@ -6447,3 +6447,4 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
+
