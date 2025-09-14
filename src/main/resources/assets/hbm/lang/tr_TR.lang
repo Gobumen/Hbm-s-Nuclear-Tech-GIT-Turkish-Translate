@@ -5645,8 +5645,8 @@ tile.machine_ashpit.desc=Collects ashes from fireboxes and heating ovens
 tile.machine_assembler.name=Assembly Machine (Legacy)
 tile.machine_assemfac.name=Assembly Factory (Legacy)
 tile.machine_assembly_factory.name=Assembly Factory
-tile.machine_assembly_machine.name=Assembly Machine
 tile.machine_assembly_factory.desc=Quadruple assembly machine.$Recipes process twice as fast,$but need twice as much power.$Needs to be cooled with water,$produces low-pressure steam.
+tile.machine_assembly_machine.name=Assembly Machine
 tile.machine_autocrafter.name=Automatic Crafting Table
 tile.machine_autosaw.name=Automatic Buzz Saw
 tile.machine_autosaw.desc=Cuts down nearby plants, re-plants trees$Accepts:$-Wood oil$-Ethanol$-Fish oil$-Heavy oil
@@ -6447,8 +6447,3 @@ desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
 
 tile.oc_cable_paintable.name=Paintable Network Cable
-
-
-
-
-
