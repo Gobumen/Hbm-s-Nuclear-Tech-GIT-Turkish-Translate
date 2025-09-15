@@ -1,4 +1,3 @@
-
 achievement.acidizer.desc=oof ow derim
 achievement.acidizer=Asidik
 achievement.assembly.desc=Bekle, Saat Şimdiden 1 mi?
@@ -2332,6 +2331,7 @@ item.canned_recursion.name=Konserve Özyineleme
 item.canned_recursion.desc=Konserve Özyineleme
 item.canned_spam.name=Konserve Spam (Çevirmen: Hani şu Dirdörtken et)
 item.canned_spam.desc=Üç buçuk dakikalık skeç, Bromley'deki kurgusal Green Midget Cafe'de geçiyor. Neredeyse her yemeğin Spam içerdiği menüyü okuyan garson ile Spam'ı sevmeyen Bayan Bun arasında bir tartışma çıkıyor. Bayan Bun, Spam seven kocasının şaşkın bakışları altında Spam içermeyen bir yemek istiyor. Garson bu isteğe tiksintiyle karşılık veriyor. Bay Bun, onun Spam'ini almayı teklif eder ve bol miktarda Spam ve fırında pişirilmiş fasulye içeren bir yemek ister. Garson, fırında pişirilmiş fasulye kalmadığı için hayır der; Bay Bun, Spam'in yerine başka bir şey ister, garson yine tiksinti ile yanıt verir. Birkaç kez, restorandaki bir grup Viking, Spam hakkında yüksek sesle şarkı söyleyerek konuşmayı keser. Öfkeli garson onlara susmalarını söyler, ancak onlar daha yüksek sesle şarkı söylemeye devam eder. Macar bir turist, tamamen yanlış bir Macarca/İngilizce konuşma kılavuzu kullanarak sipariş vermeye çalışır (önceki skece bir gönderme). Polis memuru tarafından hızla dışarı çıkarılır. Skeç aniden, bir televizyon stüdyosunda kafenin Vikinglerin kökeni hakkında konuşan bir tarihçiye geçer. Konuşmaya devam ederken, her cümleye giderek daha fazla “Spam” kelimesini eklemeye başlar ve arka plan kaldırılır ve arkasındaki restoran seti ortaya çıkar. Tarihçi Vikinglerin şarkısına katılır ve şarkı devam ederken Bay ve Bayan Bun tel ile sahneden kaldırılır. Orijinal televizyon performansında, şarkı söylerken kapanış jeneriği akmaya başlar.
+item.canned_stew.name=Konserve "Mantar Güveci"
 item.canned_stew.desc=...
 item.canned_tomato.name=Konserve Domates Çorbası
 item.canned_tomato.desc=Kim kalın kırmızı macun ister?
@@ -6444,9 +6444,3 @@ desc.gui.upgrade.effectiveness= * §aEffectiveness§r: Stacks to level 3
 desc.gui.upgrade.overdrive= * §7Overdrive§r: Stacks to level 3
 desc.gui.upgrade.power= * §1Power-Saving§r: Stacks to level 3
 desc.gui.upgrade.speed= * §4Speed§r: Stacks to level 3
-
-tile.oc_cable_paintable.name=Paintable Network Cable
-
-
-
-
